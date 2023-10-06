@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on building projects to expand my knowledge and challenge my development skills
+- 🌱 I’m currently learning Kotlin and Android development
+- 💬 Ask me about projects ideas I'm working on and Kotlin! The best way to learn is to teach!
+- 😄 Pronouns: he/him
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mmeacham92/)
 
 <!--
 **mmeacham92/mmeacham92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
