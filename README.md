@@ -1,7 +1,7 @@
 ### Hi there 👋
-- ⚡ I'm a software engineer with >5 years of experience based just outside of Nashville, Tennesee. Technologies I've built with include HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Java, C#, frameworks including .NET Core MVC and Entity, along with both relational databases and RDBMS
-- 🔭 I’m currently teaching Java while also building some pretty cool projects
-- 🌱 I’m currently learning Kotlin and Android development with my end goal being to not only learn a new skill, but also to     begin deploying apps to the Google Play store
+- ⚡ I'm a software engineer with >5 years of experience based just outside of Nashville, Tennesee. Technologies I've built with include HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Java, C#, and frameworks including .NET Core MVC and Entity, along with both relational databases and RDBMS
+- 🔭 I’m currently teaching Java
+- 🌱 At this time, I'm developing my skills in learning Kotlin and Android development with my end goal being to begin deploying apps to the Google Play store
 - 💬 Ask me about projects ideas I'm working on and Kotlin! The best way to learn is to teach!
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mmeacham92/)
