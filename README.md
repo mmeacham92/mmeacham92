@@ -1,8 +1,7 @@
 ### Hi there 👋
-- ⚡ I'm a software engineer with >5 years of experience based just outside of Nashville, Tennesee. Technologies I've built with include HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, ReactJS, Java, C#, and frameworks including Next.js, .NET Core MVC and Entity, along with both SQL and noSQL databases such as PostgresSQL, MySQL, MongoDB, and DynamoDB
+- ⚡ I'm a software engineer with >5 years of experience based just outside of Nashville, Tennesee. Technologies I've built with include HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, React.js, Node.js, Java, C#, and frameworks including Next.js, .NET Core MVC and Entity Core, while databasing withs PostgresSQL, MySQL, MongoDB, and DynamoDB
 - 🔭 I’m currently teaching Java at Kenzie Academy from Southern New Hampshire University
-- 🌱 At this time, I'm developing my skills in learning Kotlin and Android development with my end goal being to begin deploying apps to the Google Play store
-- 💬 Ask me about projects ideas I'm working on and Kotlin! The best way to learn is to teach!
+- 💬 Ask me about projects ideas I'm working on! The best way to learn is to teach!
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mmeacham92/)
 
